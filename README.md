@@ -15,6 +15,7 @@ Please feel free to edit the guides with a pull request
 
 ## Index
 
+### Setup Guide
 
 ### Beginner tutorials
 
